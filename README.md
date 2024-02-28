@@ -4,10 +4,8 @@
 * ## Dataset Link -> https://www.kaggle.com/datasets/mksaad/arabic-sentiment-twitter-corpus?resource=download
 ------------------------------------------------------------------------------------------------------------------
 
-* |------------- Model----------------------| Accurasy |
-* |--------Naive Bayes Algorithm------------|   0.72   |
-* |-Passive Aggressive Classifier Algorithm-|   0.75   |
-* |------Logistic Regression Algorithm------|   0.75   |
+# Comparison of all algorithms on F1 score
+* ![Untitled](https://github.com/MarwanAhmed20/NLP-Arabic-Language-Twitter-sentiment-analysis/assets/47067493/ec6ecfd7-5e71-4fc9-9b7e-49de47e61e34)
 
 ------------------------------------------------------------------------------------------------------------------
 * Load positive and negative dataset
