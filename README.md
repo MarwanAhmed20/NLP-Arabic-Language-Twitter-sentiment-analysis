@@ -1,13 +1,13 @@
 # NLP-Arabic-Language-Twitter-sentiment-analysis
 * ## using Arabic Sentiment Twitter Corpus dataset 
-* ## With : Naive Bayes | Passive Aggressive Classifier | Logistic Regression Algorithms 
+* ## Algorithms : Naive Bayes | Passive Aggressive Classifier | Logistic Regression  
 * ## Dataset Link -> https://www.kaggle.com/datasets/mksaad/arabic-sentiment-twitter-corpus?resource=download
 ------------------------------------------------------------------------------------------------------------------
 
-* |              Model                      | Accurasy |
-* |      Naive Bayes Algorithm              |   0.72   |
-* | Passive Aggressive Classifier Algorithm |   0.75   |
-* |      Logistic Regression Algorithm      |   0.75   |
+* |------------- Model----------------------| Accurasy |
+* |--------Naive Bayes Algorithm------------|   0.72   |
+* |-Passive Aggressive Classifier Algorithm-|   0.75   |
+* |------Logistic Regression Algorithm------|   0.75   |
 
 ------------------------------------------------------------------------------------------------------------------
 * Load positive and negative dataset
